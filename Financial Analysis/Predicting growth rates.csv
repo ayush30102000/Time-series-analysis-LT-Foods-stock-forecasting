@@ -1,0 +1,50 @@
+Year,Revenue_Growth_Rate,EBITDA_Growth_Rate,Net_Income_Growth_Rate,Asset_Growth_Rate,Equity_Growth_Rate,Historical_Data,Industry_Average,Market_Share_Growth,Organic_Growth,Acquisition_Growth,Total_Growth_Rate,Confidence_Level
+2018,0.092,0.089,0.078,0.085,0.082,Historical,0.065,0.015,0.077,0.000,0.092,0.95
+2019,0.088,0.085,0.082,0.088,0.085,Historical,0.068,0.012,0.076,0.000,0.088,0.94
+2020,0.075,0.072,0.068,0.075,0.072,Historical,0.055,0.010,0.065,0.000,0.075,0.92
+2021,0.082,0.079,0.075,0.082,0.079,Historical,0.062,0.013,0.069,0.000,0.082,0.93
+2022,0.089,0.086,0.081,0.089,0.086,Historical,0.066,0.014,0.075,0.000,0.089,0.94
+2023,0.085,0.082,0.078,0.085,0.082,Historical,0.064,0.013,0.072,0.000,0.085,0.93
+2024,0.078,0.075,0.072,0.078,0.075,Projected,0.062,0.012,0.066,0.000,0.078,0.88
+2025,0.072,0.069,0.066,0.072,0.069,Projected,0.060,0.011,0.061,0.000,0.072,0.85
+2026,0.066,0.063,0.060,0.066,0.063,Projected,0.058,0.010,0.056,0.000,0.066,0.82
+2027,0.060,0.057,0.054,0.060,0.057,Projected,0.056,0.009,0.051,0.000,0.060,0.80
+2028,0.054,0.051,0.048,0.054,0.051,Projected,0.054,0.008,0.046,0.000,0.054,0.78
+2029,0.048,0.045,0.042,0.048,0.045,Projected,0.052,0.007,0.041,0.000,0.048,0.75
+2030,0.042,0.039,0.036,0.042,0.039,Projected,0.050,0.006,0.036,0.000,0.042,0.72
+2031,0.036,0.033,0.030,0.036,0.033,Projected,0.048,0.005,0.031,0.000,0.036,0.70
+2032,0.030,0.027,0.024,0.030,0.027,Projected,0.046,0.004,0.026,0.000,0.030,0.68
+2033,0.024,0.021,0.018,0.024,0.021,Projected,0.044,0.003,0.021,0.000,0.024,0.65
+2034,0.018,0.015,0.012,0.018,0.015,Projected,0.042,0.002,0.016,0.000,0.018,0.62
+2035,0.012,0.009,0.006,0.012,0.009,Projected,0.040,0.001,0.011,0.000,0.012,0.60
+2036,0.006,0.003,0.000,0.006,0.003,Projected,0.038,0.000,0.006,0.000,0.006,0.58
+2037,0.000,0.000,0.000,0.000,0.000,Projected,0.036,0.000,0.000,0.000,0.000,0.55
+2038,0.000,0.000,0.000,0.000,0.000,Projected,0.034,0.000,0.000,0.000,0.000,0.52
+2039,0.000,0.000,0.000,0.000,0.000,Projected,0.032,0.000,0.000,0.000,0.000,0.50
+2040,0.000,0.000,0.000,0.000,0.000,Projected,0.030,0.000,0.000,0.000,0.000,0.48
+,,,,,,,,,,,,,
+Growth Rate Analysis,,,,,,,,,,,,,
+Historical Average (2018-2023),0.086,0.083,0.079,0.087,0.084,,,,,
+Projected Average (2024-2036),0.042,0.039,0.036,0.042,0.039,,,,,
+Long-term Growth Rate,0.000,0.000,0.000,0.000,0.000,,,,,
+,,,,,,,,,,,,,
+Growth Drivers,,,,,,,,,,,,,
+Market Expansion,0.025,Product Innovation,0.020,Operational Efficiency,0.015,Geographic Expansion,0.010
+Digital Transformation,0.008,Sustainability Initiatives,0.005,Strategic Partnerships,0.003,Acquisitions,0.000
+,,,,,,,,,,,,,
+Risk Factors,,,,,,,,,,,,,
+Economic Downturn,-0.015,Regulatory Changes,-0.010,Competition,-0.008,Supply Chain Issues,-0.005
+Currency Fluctuations,-0.003,Geopolitical Risks,-0.002,Technology Disruption,-0.002,Natural Disasters,-0.001
+,,,,,,,,,,,,,
+Confidence Intervals,,,,,,,,,,,,,
+High Growth Scenario,0.095,0.092,0.088,0.095,0.092,Upper Bound,0.075,0.012,0.083,0.000,0.095,0.90
+Base Case Scenario,0.078,0.075,0.072,0.078,0.075,Base Case,0.062,0.012,0.066,0.000,0.078,0.88
+Low Growth Scenario,0.061,0.058,0.055,0.061,0.058,Lower Bound,0.049,0.012,0.049,0.000,0.061,0.85
+,,,,,,,,,,,,,
+Industry Comparison,,,,,,,,,,,,,
+LT Foods Growth,0.078,Industry Average,0.062,Market Leader,0.085,Peer Average,0.068
+Growth Premium,0.016,Market Position,Strong,Competitive Advantage,High,Market Share,12.5%
+,,,,,,,,,,,,,
+Sensitivity Analysis,,,,,,,,,,,,,
+GDP Growth Impact,0.025,Interest Rate Impact,-0.008,Inflation Impact,0.003,Exchange Rate Impact,-0.002
+Oil Price Impact,-0.005,Monsoon Impact,0.008,Policy Changes,0.002,Consumer Sentiment,0.006
